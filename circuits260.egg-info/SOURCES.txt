@@ -1,0 +1,11 @@
+CHANGELOG.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+circuits260/__init__.py
+circuits260.egg-info/PKG-INFO
+circuits260.egg-info/SOURCES.txt
+circuits260.egg-info/dependency_links.txt
+circuits260.egg-info/requires.txt
+circuits260.egg-info/top_level.txt

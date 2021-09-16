@@ -1,0 +1,23 @@
+Metadata-Version: 1.1
+Name: circuits260
+Version: 0.0.1
+Summary: A Python library consisting of many circuit functions.
+Home-page: UNKNOWN
+Author: Adrien Carrou
+Author-email: adriencarrou@gmail.com
+License: MIT
+Description: A Python library I created for my circuits class. I am still adding on a bunch of different functions to easily calculate circuit math. The only current dependency is numpy library.
+        
+        Change Log
+        ================
+        
+        0.0.1 (9/14/2021)
+        -----------------
+        -First Release
+Keywords: circuits
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3

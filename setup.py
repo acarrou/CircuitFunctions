@@ -9,7 +9,7 @@ classifiers = [
 ]
 
 setup(
-    name='CircuitFunctions',
+    name='circuits260',
     version='0.0.1',
     description='A Python library consisting of many circuit functions.',
     long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
