@@ -120,5 +120,18 @@ def VoltageDiv(Voltage_Source, Resistor, *allResistors):
     print("Total Voltage Division: ", Voltage_Source*(Resistor/sum(allResistors)))
 
 
+def CurrentDiv(Current_Source, Resistor, *allResistors):
+    """
+    CurrentDiv (Current Divider)
+
+    :param float Current_Source: The Current Source
+    :param float Resistor: The main resistor we want to find
+    :param float allResistors: All of the resistors
+    """
+    final = 0.0
+    for item in allResistors:
+        final = 1/item + final
+    print("Total Current Division: ", Current_Source*((1/Resistor)/(final)))
+
 
 
